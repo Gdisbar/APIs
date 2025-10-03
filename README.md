@@ -1,5 +1,6 @@
 # APIs
 
+### Async + Sync Redis - Chatbot
 ```
 async_redis_client = async_redis.Redis(...)
 sync_redis_client = redis.Redis(...)
